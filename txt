@@ -1,0 +1,53 @@
+<article id="intro">
+								<h2 class="major">Resume</h2>
+								<span class="image main"><img src="images/Logan.jpeg" alt="" /></span>
+								<iframe src="/Resume/Resume 2022.pdf" width="100%" height="500px">
+								</iframe>
+							</article>
+							
+
+						<!-- Work -->
+							<article id="work">
+								<h2 class="major">Work</h2>
+								<h3>The Justice Beat Talk Show</h3>
+								<span class="image"><img width="320" height="240" src="Videos/The Justice Beat Show.gif" alt="" /></span>
+								<p> For this project I Lead a team of 4 to redesign and keep up website maintenance. These websites include the Justice Beat Talk Show and Nxgen Media. Programs used: <ul>
+									<li>Wix XD Builder</li>
+									<li>Adobe Creative Suite</li>
+									<li>Canva</li>
+								</ul>
+								<a href="https://www.thejusticebeat.com/" target="_blank">
+									<button>JBTS</button> &nbsp; 
+									<a href="https://www.nxgeninterns.com/" target="_blank">
+										<button>NG</button>
+								</p>
+							</article>
+							<br>
+							<article id="work">
+								<h3>Bins Bullies</h3>
+								<span class="image"><img width="320" height="240" src="Videos/BinsBullies.gif" alt="" /></span>
+								<p>Consulted, designed, and planned website design for this company. I came in working on programs they had setup. I helped with the setup of business email and linking them to their phones and computers. Programs used: <ul> 
+									<li>Ionos Builder</li>
+									<li>Canva</li>
+									<li>Square</li>
+									<li>Google Business</li>
+									<a href="https://www.binsbullies.com/#AmericanBullies" target="_blank">
+										<button>Bins Bullies</button>
+								</ul>
+								</p>
+							</article>
+							<br>
+
+							<article id="work">
+								<h3>BReeZ Cycle Worx</h3>
+								<span class="image"><img width="320" height="240" src="Videos/BReeZCycleWorx.gif" alt="" /></span>
+								<p>Consulted, designed, and planned website design for this company. Helped start the company and is now looking into ways to upgrade site and POS System. Programs used: <ul> 
+									<li>Google Sites</li>
+									<li>Canva</li>
+									<li>Lightspeed POS</li>
+									<li>Google Business</li>
+									<a href="https://sites.google.com/breezcycleworx.com/breezcycleworx/home" target="_blank">
+										<button>BCW</button>
+								</ul>
+								</p>
+							</article>
