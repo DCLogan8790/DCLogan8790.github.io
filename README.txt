@@ -17,3 +17,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+Photo by Pawel Czerwinski on Unsplash
+Photo by Bia Andrade on Unsplash
